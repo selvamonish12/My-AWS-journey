@@ -1,0 +1,7 @@
+So taday i learnabout three deployment model
+->cloud based.
+->on-premises.
+->hybrid.
+
+also fundamentals that cloud computing will do:
+ compute, storage and daatransfer out of the aws cloud.
