@@ -1,1 +1,6 @@
 learned the basic of cloud and created the Identify and Aceess management account shortly IAM .
+USER- an user can be any group to access the IAM
+GROUP- a gorup of users are mensioned as GROUP and a user can be in any group as needed.
+PERMISSION- there are certain permission for the users which cannot be accessed, the required or needed permission 
+            is given to the group or user.
+
