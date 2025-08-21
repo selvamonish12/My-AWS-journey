@@ -1,7 +1,0 @@
-service models :
-Iaas :- where are the hardware part is done by the cloud providers but we develop the application,middlewre,runtime and data.
-  usage: mostly used by cloud providers.
-Paas :- where the hardware as well as middleware part,we just have to deploy the application.
-  useage: mostly used by developers
-Saas :- All the modules are served by the cloud .
-  usage :- end-users use for their privacy.
