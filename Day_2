@@ -1,0 +1,16 @@
+MFA:- multi factor authorization
+  To protect root account and IAM users we need MFA i.e password + security devices
+users can access aws by three ways 
+-> AWS Management console
+-> AWS Command Line Interface
+-> AWS Software development Kid
+
+CLI helps to access directly the Api of AWS services(IT is the open source )
+
+AWS SDK : enables you to access and manage services programmatically.
+
+IAM roles : Permissions to employees on specific needs 
+
+there are two security tools 
+-> credential report
+-> access advior.
