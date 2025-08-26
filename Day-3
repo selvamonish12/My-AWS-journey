@@ -1,0 +1,33 @@
+Amazon EC2 :
+-> It is a popular AWS offering  services , EC@ stands for Elastoc Compute Cloud 
+-> It is IAAS 
+
+Definition:
+  we use virtual machines on EC2 which is called instances 
+  instances feactures arw:
+   -> Storing data (EBS)
+   -> Distribute load accross machines(ELB)
+   -> Scaling the services using auto-scaleing group(ASG)
+EC2 Sizing and Configuration option
+     EC2  uses OS like linux,windows or MAC os 
+
+BOOTSTRAP: launching command when machines starts.
+  =>The script(command ) will only  run  once  at  the instance first start.
+  =>EC2 user data is used to automate boot task such as :
+     1)installing updates
+     2)installing software 
+     3)Downloading common files from internet.
+     4)The EC2 user data run with the root user by pair allows to connect to instances securely 
+
+To delete a instances : instance state -> terminal instance.
+In EC2 instance the public http address will change when we stop and run in some cases.
+       Types of instances
+       general optimized 
+       computer optimized
+       memory optimized
+       accelerad computing 
+       instance feature
+       memory instace performance
+
+       
+       
