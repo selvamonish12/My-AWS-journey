@@ -1,0 +1,10 @@
+Name convension in Aws instance
+m.5.2xlarge
+m -> Instance generation
+2xlarge >size of the instance
+t2.micro is one of the free general purpose EC2 instance
+
+1) General purpose instance:
+->great use for work loads such as web server ur code repositories.
+-> balance between compute,memory and netwok.
+2)compute Optimized
